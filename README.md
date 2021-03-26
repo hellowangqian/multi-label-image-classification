@@ -12,7 +12,7 @@ A Baseline for Multi-Label Image Classification Using Ensemble Deep CNN
 5. We use all training data to train the model and a fixed criterion for training stop.
 
 ## Data
-To run the code you might need to download images for three datasets from their official websites or contact me directly.
+To run the code you might need to download images for three datasets from their official websites.
 
 ## Reference
 Qian Wang, Ning Jia, Toby P. Breckon, A Baseline for Multi-Label Image Classification Using Ensemble Deep CNN, IEEE International Conference on Image Processing 2019, Taipei.
